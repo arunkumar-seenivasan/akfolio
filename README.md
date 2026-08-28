@@ -47,4 +47,3 @@ To run this project locally on your machine, follow these steps:
    * Open `index.html` directly in your favorite web browser, or
    * Use an extension like **Live Server** in VS Code for live-reloaded changes.
 
-## 🌐 Deployment to Vercel
